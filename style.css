@@ -1,0 +1,2072 @@
+body {
+  background-image: url(img/Обои\ сайта.png);
+  background-repeat: no-repeat, center center fixed;
+  background-size: cover;
+}
+body > header {
+  margin: 0px;
+}
+body > header > nav {
+  margin: 0px;
+}
+body > header > nav > h1 {
+  color: #0a40ac;
+  text-align: center;
+  font-size: 35px;
+  font-family: cursive;
+  text-shadow: 0px 0px 2px #000000;
+  padding-top: 10px;
+}
+body > header > nav > a {
+  display: inline block;
+  margin: 0px;
+  color: #131417;
+  text-decoration: none;
+  padding: 10px 50px;
+  border-radius: 25px;
+  font-family: cursive;
+  text-shadow: 0px 0px 5px #dad5d5;
+}
+body > header > nav > a:hover {
+  background-color: #d11515;
+  border-radius: 15px;
+}
+/* menu site end */
+body > main.index > h2 {
+  color: brown;
+  text-align: center;
+  font-family: cursive;
+  text-shadow: 0px 0px 3px;
+}
+body > main.index > li {
+  margin: 0px;
+  padding: 5px;
+  list-style: none;
+  text-align: center;
+  font-family: cursive;
+  font-size: 18px;
+  text-shadow: 0px 0px 3px #fff;
+  color: darkgrey;
+}
+body > main.index >p{
+  text-align: center;
+}
+
+/* main index end */
+body > main.Europe > h2 {
+  color: #000;
+  text-align: center;
+  font-family: cursive;
+  margin: 0px;
+}
+body > main.Europe > p {
+  color: #ca1111a4;
+  text-align: center;
+  font-family: cursive;
+  font-size: 18px;
+  margin: 0px;
+}
+body > main.Europe > p > a {
+  margin: 0px;
+  text-decoration: none;
+}
+body > main.Europe > p > a:hover {
+  font-size: 20px;
+  font-family: cursive;
+  color: #fff;
+  text-shadow: 0px 0px 3px #000000;
+}
+/* main Europe end */
+body > main.Asian > h2 {
+  color: #000;
+  text-align: center;
+  font-family: cursive;
+}
+body > main.Asian > p {
+  color: #ca1111a4;
+  text-align: center;
+  font-family: cursive;
+  font-size: 18px;
+  margin: 0px;
+}
+body > main.Asian > p > a {
+  margin: 0px;
+  text-decoration: none;
+}
+body > main.Asian > p > a:hover {
+  font-size: 20px;
+  font-family: cursive;
+  color: #fff;
+  text-shadow: 0px 0px 3px #000000;
+}
+/* main Asian end */
+body > main.American > h2 {
+  color: #000;
+  text-align: center;
+  font-family: cursive;
+  margin: 0px;
+}
+body > main.American > p {
+  color: #ca1111a4;
+  text-align: center;
+  font-family: cursive;
+  font-size: 18px;
+  margin: 0px;
+}
+body > main.American > p > a {
+  margin: 0px;
+  text-decoration: none;
+}
+body > main.American > p > a:hover {
+  font-size: 20px;
+  font-family: cursive;
+  color: #fff;
+  text-shadow: 0px 0px 5px #000000;
+}
+/* main American end */
+body > main.African > h2 {
+  color: #000;
+  text-align: center;
+  font-family: cursive;
+  margin: 0px;
+}
+body > main.African > p {
+  color: #ca1111a4;
+  text-align: center;
+  font-family: cursive;
+  font-size: 18px;
+  margin: 0px;
+}
+body > main.African > p > a {
+  margin: 0px;
+  text-decoration: none;
+}
+body > main.African > p > a:hover {
+  font-size: 20px;
+  font-family: cursive;
+  color: #fff;
+  text-shadow: 0px 0px 5px #000000;
+}
+/*main African end  */
+body > main.Contacts > h2 {
+  color: #000;
+  text-align: center;
+  font-family: cursive;
+  margin: 0px;
+  padding: 10px;
+}
+body > main.Contacts > p {
+  color: #000;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  font-size: 18px;
+  margin: 0px;
+  padding: 10px;
+}
+/* main Contacts end  */
+body > footer {
+  margin: auto;
+}
+body > footer > h3 {
+  text-align: center;
+  font-family: cursive;
+  color: darkblue;
+}
+/* footer end */
+.table {
+	width: 75%;
+	margin-bottom: 20px;
+	border:1px solid #dddddd;
+	border-collapse: collapse; 
+  text-align: center;
+  
+}
+.table th {
+	font-weight: bold;
+	padding: 10px;
+	background: darkgray;
+	border:  red;
+  border-radius: 1cqi;
+}
+.table td {
+	border: #dddddd;
+	padding: 15px;
+}
+
+body > main.Afghanistan > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Afghanistan > p {
+  text-align: center;
+  font-size: 25px;
+  color:black;
+  font-family: cursive;
+  text-shadow: 0px 0px 5px rgb(139, 130, 238);
+}
+body > main.Afghanistan>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+
+/* main Afghanistan end */
+
+body > main.Angola>h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #000;
+  text-shadow: 0px 0px 5px #fff;
+}
+body > main.Angola>p {
+  text-align: center;
+  font-size: 25px;
+  color:black;
+  font-family: cursive;
+  text-shadow: 0px 0px 5px rgb(139, 130, 238);
+}
+body > main.Angola>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;}
+
+/* main Angola end */
+body > main.Argentina > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #000;
+  text-shadow: 0px 0px 5px #fff;
+}
+body > main.Argentina > p {
+  text-align: center;
+}
+body > main.Argentina>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;}
+
+/* main Argentina end */
+body > main.Austria > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Austria > p {
+  text-align: center;
+}
+body > main.Austria>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+
+}
+/* main Austria end */
+ 
+body > main.Azerbaijan > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Azerbaijan > p {
+  text-align: center;
+}
+body > main.Azerbaijan>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+
+}
+/* main.Azerbaijan end */
+body > main.Bangladesh > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Bangladesh > p {
+  text-align: center;
+}
+body>main.Bangladesh>li{
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Bangladesh end*/
+body > main.Belarus > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Belarus > p {
+  text-align: center;
+}
+
+body > main.Belarus>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+  border-radius: 5px;
+  
+}
+
+/*main Belarus end  */
+body > main.Belgium > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Belgium > p {
+  text-align: center;
+}
+body > main.Belgium>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+  border-radius: 5px;
+  
+}
+
+/* main Belgium end */
+body > main.Brazil > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Brazil > p {
+  text-align: center;
+}
+body > main.Brazil>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+
+/* main Bulgaria end */
+body > main.Bulgaria > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Bulgaria > p {
+  text-align: center;
+}
+body > main.Bulgaria>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Bulgaria end */
+body > main.Burma > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Burma > p {
+  text-align: center;
+}
+body > main.Burma>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+
+}
+/* main Burma end */
+
+body > main.Burundi > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Burundi > p {
+  text-align: center;
+
+}
+body > main.Burundi > li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Burundi end */
+body > main.Сambodia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Сambodia > p {
+  text-align: center;
+}
+body > main.Сambodia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+
+}
+/* main Сambodia end */
+
+body > main.Columbia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Columbia > p {
+  text-align: center;
+}
+body>main.Columbia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+
+}
+/* main Colombia end */
+body > main.China > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+
+body > main.China > p {
+  text-align: center;
+}
+body>main.China>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main China end */
+body > main.Croatia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+
+body > main.Croatia > p {
+  text-align: center;
+}
+body>main.Croatia>li{
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Croatia end */
+
+body > main.Congo > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Congo > p {
+  text-align: center;
+}
+body > main.Congo >li{
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Congo end */
+body > main.Egypt > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Egypt > p {
+  text-align: center;
+}
+body > main.Egypt>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Egypt end */
+
+body > main.Eritrea > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Eritrea > p {
+  text-align: center;
+}
+body > main.Eritrea>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main  Eritrea end*/
+
+body > main.Ethiopia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Ethiopia > p {
+  text-align: center;
+}
+body > main.Ethiopia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main  Ethiopia end*/
+
+body > main.Gambia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Gambia > p {
+  text-align: center;
+}
+body > main.Gambia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Gambia end */
+
+body > main.Gayana > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Gayana > p {
+  text-align: center;
+}
+body > main.Gayana>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Gayana end */
+
+body > main.GDR > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.GDR > p {
+  text-align: center;
+}
+body > main.GDR>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+
+/* main GDR end */
+body > main.Georgia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Georgia > p {
+  text-align: center;
+}
+body > main.Georgia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Georgia end */
+body > main.Germany > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Germany > p {
+  text-align: center;
+}
+body > main.Germany>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+
+/* main Germany end */
+body > main.Greece > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Greece > p {
+  text-align: center;
+}
+body > main.Greece>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;}
+
+/* main Greece end */
+body > main.Guinea > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Guinea > p {
+  text-align: center;
+}
+body > main.Guinea>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Guinea end */
+body > main.Haiti > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Haiti > p {
+  text-align: center;
+}
+body > main.Haiti>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Haiti end */
+body > main.Honduras > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Honduras > p {
+  text-align: center;
+}
+body > main.Honduras>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Honduras end */
+body > main.Hong-Kong > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Hong-Kong > p {
+  text-align: center;
+}
+body > main.Hong-Kong>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Hong-Kong end */
+body > main.India > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.India > p {
+  text-align: center;
+}
+body > main.Сroatia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+body > main.India>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main India end */
+body > main.Indonesia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Indonesia > p {
+  text-align: center;
+}
+body > main.Indonesia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Indonesia end */
+body > main.Irak > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Irak > p {
+  text-align: center;
+}
+body > main.Irak>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Irak end */
+body > main.Iran > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Iran > p {
+  text-align: center;
+}
+body > main.Iran>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Iran end */
+body > main.Israel > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Israel > p {
+  text-align: center;
+}
+body > main.Israel>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Israel end */
+body > main.Italy > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Italy > p {
+  text-align: center;
+}
+body > main.Italy>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;}
+
+/* main Italy end */
+body > main.Jordan > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Jordan > p {
+  text-align: center;
+}
+body > main.Jordan>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Jordan end */
+body > main.Kazakhstan > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Kazakhstan > p {
+  text-align: center;
+}
+body > main.Kazakhstan>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Kazakhstan end */
+body > main.Kyrgyzstan > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+
+body > main.Kyrgyzstan > p {
+  text-align: center;
+}
+body > main.Kyrgyzstan>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Kyrgyzstan end */
+body > main.Laos > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Laos > p {
+  text-align: center;
+}
+body > main.Laos>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Laos end */
+body > main.Latvia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Latvia > p {
+  text-align: center;
+}
+body > main.Latvia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;}
+
+/* main Latvia end */
+body > main.lithuania > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.lithuania > p {
+  text-align: center;
+}
+body > main.lithuania>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;}
+
+/* main lithuania end */
+body > main.Lebanon > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Lebanon > p {
+  text-align: center;
+}
+body > main.Lebanon>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Lebanon end */
+
+body > main.Madagascar > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Madagascar > p {
+  text-align: center;
+}
+body > main.Madagascar>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Madagascar end */
+body > main.Malawi > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Malawi > p {
+  text-align: center;
+}
+body > main.Malawi>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Malawi end */
+body > main.Malaysia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Malaysia > p {
+  text-align: center;
+}
+body > main.Malaysia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Malaysia end */
+
+body > main.Moldova > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Moldova > p {
+  text-align: center;
+}
+body > main.Moldova>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;}
+
+/* main Moldova end */
+
+body > main.Mongolia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Mongolia > p {
+  text-align: center;
+}
+body > main.Mongolia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Mongolia */
+body > main.Mozambique > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Mozambique > p {
+  text-align: center;
+}
+body > main.Mozambique>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+body > main.Myanmar > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Myanmar > p {
+  text-align: center;
+}
+body>main.Myanmar>li{
+   margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+ 
+
+/* main Mynmar end */
+body > main.Nepal > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Nepal > p {
+  text-align: center;
+}
+body > main.Nepal>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Nepal end */
+
+body > main.Nethelands > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Nethelands > p {
+  text-align: center;
+}
+body > main.Nethelands>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;}
+
+/* main Nethelands end */
+
+body > main.Nicaragua > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Nicaragua > p {
+  text-align: center;
+}
+body > main.Nicaragua>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Nicaragua end */
+
+body > main.Nigeria > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Nigeria > p {
+  text-align: center;
+}
+body > main.Nigeria>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Nigeria end */
+body > main.North-Korea > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.North-Korea > p {
+  text-align: center;
+}
+body > main.North-Korea>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main North-Korea end */
+
+body > main.North-Macedonia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.North-Macedonia > p {
+  text-align: center;
+}
+body > main.North-Macedonia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main North-Macedonia end */
+body > main.Pakistan > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Pakistan > p {
+  text-align: center;
+}
+body > main.Pakistan>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Pakistan end  */
+body > main.Philippines > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Philippines > p {
+  text-align: center;
+}
+body > main.Philippines>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Philippines end */
+
+body > main.Poland > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Poland > p {
+  text-align: center;
+}
+body > main.Poland>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Poland end */
+body > main.Peru > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Peru > p {
+  text-align: center;
+}
+body > main.Peru>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+body > main.Russia-Imperial > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Russia-Imperial > p {
+  text-align: center;
+}
+body > main.Russia-Imperial>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Russia-Imperial end */
+body > main.Russia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Russia > p {
+  text-align: center;
+}
+body > main.Russia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Russia end */
+body > main.Romania > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Romania > p {
+  text-align: center;
+}
+body > main.Romania>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Romania end */
+
+body > main.Saudi-Arabia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Saudi-Arabia > p {
+  text-align: center;
+}
+body > main.Saudi-Arabia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Saudi-Arabia end */
+body > main.Syria > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Syria > p {
+  text-align: center;
+}
+body > main.Syria>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Syria end */
+
+body > main.Serbia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Serbia > p {
+  text-align: center;
+}
+body > main.Serbia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Serbia end */
+body > main.Slovenia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Slovenia > p {
+  text-align: center;
+}
+body > main.Slovenia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Slovenia end */
+body > main.Somalia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Somalia > p {
+  text-align: center;
+}
+body > main.Somalia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Somalia end */
+body > main.South-Sudan > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.South-Sudan > p {
+  text-align: center;
+}
+body > main.South-Sudan>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main South-Sudan end */
+body > main.Spain > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Spain > p {
+  text-align: center;
+}
+body > main.Spain>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Spain end */
+body > main.Sri-Lanka > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Sri-Lanka > p {
+  text-align: center;
+}
+body> main.Sri-Lanka>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+
+
+
+/* main Sri-lanka end */
+body > main.Tajikistan > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Tajikistan > p {
+  text-align: center;
+}
+body > main.Tajikistan>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Tajikistan end */
+body > main.Thailand > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Thailand > p {
+  text-align: center;
+}
+body > main.Thailand>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Thailand end */
+body > main.Transnistria > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Transnistria > p {
+  text-align: center;
+}
+body > main.Transnistria>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Transnistria end */
+body > main.Trinidad-Tobago > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Trinidad-Tobago > p {
+  text-align: center;
+}
+body > main.Trinidad-Tobago>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/*main Trinidad-Tobago end  */
+body > main.Turkey > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Turkey > p {
+  text-align: center;
+}
+body > main.Turkey>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Turkey end */
+body > main.Turkmenistan > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Turkmenistan > p {
+  text-align: center;
+}
+body > main.Turkmenistan>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Turkmenistan end */
+body > main.Uzbekistan > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Uzbekistan > p {
+  text-align: center;
+}
+body > main.Uzbekistan>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Uzbekistan end */
+body > main.Ukraine > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Ukraine > p {
+  text-align: center;
+}
+body > main.Ukraine>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Ukraine end */
+body > main.United-Kingdom > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.United-Kingdom > p {
+  text-align: center;
+}
+body > main.United-Kingdom>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main United-Kingdom */
+body > main.Uruguay > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Uruguay > p {
+  text-align: center;
+}
+body > main.Uruguay>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Uruguay end */
+body > main.USA > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.USA > p {
+  text-align: center;
+}
+body > main.USA >li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main USA end */
+body > main.USSR > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.USSR > p {
+  text-align: center;
+}
+body > main.USSR >li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main USSR end */
+body > main.Venezuela > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Venezuela > p {
+  text-align: center;
+}
+body > main.Venezuela>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Venezuela end */
+body > main.Vietnam > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Vietnam > p {
+  text-align: center;
+}
+body > main.Vietnam >li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Vietnam end */
+body > main.Yemen > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Yemen > p {
+  text-align: center;
+}
+body > main.Yemen >li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Yemen end */
+body > main.Yugoslavia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Yugoslavia > p {
+  text-align: center;
+}
+body > main.Yugoslavia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Yugoslavia end */
+body > main.Zaire > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Zaire > p {
+  text-align: center;
+}
+body > main.Zaire>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Zaire end */
+body > main.Zambia > h2 {
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-family: cursive;
+  color: #dad5d5;
+  text-shadow: 0px 0px 5px #000;
+}
+body > main.Zambia > p {
+  text-align: center;
+}
+body > main.Zambia>li {
+  margin: 0;
+  text-align: left;
+  list-style: none;
+  font-size: 18px;
+  color: #1613a5;
+  text-shadow: 0px 0px 5px #fff;
+}
+/* main Zambia end */
+h5{
+  color:dark;
+  text-align: center;
+  text-shadow: 0px 0px 2px black;
+  font-size: 25px;
+  font-family: cursive;
+  padding:0px 30px 0px 20px;
+}
+h4{
+  color: #fff;
+  text-align: center;
+  font-family: cursive;
+  font-size: 22px;
+  text-shadow: 0px 0px 3px #1613a5;
+}
+table{
+  text-align: center;
+  background: #ece9e0;
+  color: #1613a5;
+  border: 25px 5px solid #ece9e0;
+  border-radius: 10px;
+}
+table > tr {
+  margin: 0px;
+}
+table > tr > th {
+  font: size 15px;
+  padding: 10px;
+  color: #000;
+}
+table > tr > th > td {
+  background: #e2dedb;
+  padding: 10px;
+  border: solid 3px;
+  color: #000;
+  text-shadow: 1px 0px 0px white;
+}
